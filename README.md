@@ -2,6 +2,7 @@
 ATM system using python multiprocessing ( lock &amp; value)
 
 This project simulates an ATM system with:
+  -check balance
   -Deposit
   -Withdraw
   -Shraed balance using value
