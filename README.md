@@ -13,4 +13,4 @@ Concepts used:
   -Value
 
 How to run:
-python atm.py
+python atm-p1.py
